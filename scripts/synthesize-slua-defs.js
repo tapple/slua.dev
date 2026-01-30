@@ -63,7 +63,7 @@ const DuplicateFunctions = {
 	'StringLength': '#string, string.len, utf8.len',
 	'GetListLength': '#table',
 	'ListSort': 'table.sort',
-	'List2String': 'table.concat',
+	'DumpList2String': 'table.concat',
 	'List2CSV': 'table.concat(", ")',
 	'ListFindList': 'table.find',
 	'ListFindListNext': 'table.find',
